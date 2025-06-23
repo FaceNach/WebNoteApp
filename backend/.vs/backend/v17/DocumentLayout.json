@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\models\\noteapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:models\\noteapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\dtos\\noteappdtoforfront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:dtos\\noteappdtoforfront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\controllers\\noteapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:controllers\\noteapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\services\\inoteappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:services\\inoteappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\services\\noteappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:services\\noteappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\dtos\\createnewnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:dtos\\createnewnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|c:\\users\\usuario\\desktop\\todo\\challange\\ensolverschallangeignaciogunst\\backend\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A443D885-781D-467D-BDD9-D72C663C4B85}|backend.csproj|solutionrelative:data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteApp.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Models\\NoteApp.cs",
+              "RelativeDocumentMoniker": "Models\\NoteApp.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Models\\NoteApp.cs",
+              "RelativeToolTip": "Models\\NoteApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:24:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateNewNoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\DTOs\\CreateNewNoteDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateNewNoteDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\DTOs\\CreateNewNoteDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateNewNoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:31:38.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Data\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Data\\AddDbContext.cs",
+              "RelativeToolTip": "Data\\AddDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:31:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T20:48:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteAppDTOForFront.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\DTOs\\NoteAppDTOForFront.cs",
+              "RelativeDocumentMoniker": "DTOs\\NoteAppDTOForFront.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\DTOs\\NoteAppDTOForFront.cs",
+              "RelativeToolTip": "DTOs\\NoteAppDTOForFront.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:07:48.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteApp.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Controllers\\NoteApp.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoteApp.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Controllers\\NoteApp.cs",
+              "RelativeToolTip": "Controllers\\NoteApp.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:10:41.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Services\\NoteAppService.cs",
+              "RelativeDocumentMoniker": "Services\\NoteAppService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Services\\NoteAppService.cs",
+              "RelativeToolTip": "Services\\NoteAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:11:19.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INoteAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Services\\INoteAppService.cs",
+              "RelativeDocumentMoniker": "Services\\INoteAppService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Services\\INoteAppService.cs",
+              "RelativeToolTip": "Services\\INoteAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:06:46.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Todo\\Challange\\EnsolversChallangeIgnacioGunst\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:08:36.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
